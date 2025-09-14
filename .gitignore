@@ -1,0 +1,9 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore your script
+create_folder.py
+
+# Ignore JSON files
+*.json
