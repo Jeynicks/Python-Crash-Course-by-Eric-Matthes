@@ -1,0 +1,4 @@
+In Python I learned you can use Class as Attributes
+In Python I understand splices
+In Python I learned the basics
+ 
